@@ -1,6 +1,6 @@
-# Public transport recomendation program
+# Public transport recommendation program
 
-There is an implementation of graph structure and BFS algorithm to find the shortest path between two vertecies in the graph
+There is an implementation of graph structure and the BFS algorithm to find the shortest path between two vertices in the graph.
 
 ### Input format:
 
@@ -14,7 +14,7 @@ There is an implementation of graph structure and BFS algorithm to find the shor
 
   1. List of stops separated by spaces
 
-##### Example input 1:
+###### Example input 1:
 
     8
     A
@@ -31,11 +31,11 @@ There is an implementation of graph structure and BFS algorithm to find the shor
     A102 B G
     A B
 
-##### Example Output 1:
+###### Example Output 1:
 
     A C E G B
 
-##### Example input 2:
+###### Example input 2:
 
     9
     A
@@ -61,6 +61,5 @@ There is an implementation of graph structure and BFS algorithm to find the shor
 
 To run this program you have to insert 2 commands:
 
-$ make
-$ /myapp
-
+  1. $ make
+  2. $ ./myapp
